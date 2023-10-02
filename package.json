@@ -1,0 +1,23 @@
+{
+  "name": "knex_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasDSBR/knex_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasDSBR/knex_js/issues"
+  },
+  "homepage": "https://github.com/lucasDSBR/knex_js#readme",
+  "dependencies": {
+    "knex": "^2.5.1",
+    "mysql2": "^3.6.1"
+  }
+}
